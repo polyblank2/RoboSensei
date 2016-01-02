@@ -1,0 +1,15 @@
+The Purpose of Robo Sensei is to create an autonomous manager to keep you committed to your goals.
+
+Robo Sensei will include a variety of techniques.
+
+Part I - Attention
+Will use disruptive techniques to get your attention when you need to be reminded to do something.
+
+Domains
+Alarm
+Timer
+Calendar
+To Do 
+Reminders
+
+
