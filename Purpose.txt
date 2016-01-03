@@ -13,3 +13,11 @@ To Do
 Reminders
 
 
+AWS SNS will be used for Version 0.1.0
+There will be a variety of actions.
+
+To do:
+figure out if MMS is possible (like SMS but with images)
+Create a variety of translations to catch the user (me) off guard to not acclimate 
+
+
